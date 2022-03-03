@@ -1,0 +1,69 @@
+### Leave the first part of a line as "#" to have it ignored ###
+
+
+# Xbox
+#https://www.newegg.com/p/N82E16868105274?Description=xbox%20series%20s&cm_re=xbox_series%20s-_-68-105-274-_-Product
+#https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4205036
+#https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4205033
+#https://www.newegg.com/p/N82E16868105273
+#https://www.newegg.com/p/N82E16868105274
+
+
+# Ryzen 5000 CPUs (Newegg)
+https://www.newegg.com/amd-ryzen-5-5600x/p/N82E16819113666?Description=ryzen%205%205600x&cm_re=ryzen_5%205600x-_-19-113-666-_-Product
+https://www.newegg.com/amd-ryzen-7-5800x/p/N82E16819113665?Description=ryzen%207%205800x&cm_re=ryzen_7%205800x-_-19-113-665-_-Product
+https://www.newegg.com/amd-ryzen-9-5900x/p/N82E16819113664?Description=Ryzen%209%205900X&cm_re=Ryzen_9%205900X-_-19-113-664-_-Product
+https://www.newegg.com/amd-ryzen-9-5950x/p/N82E16819113663?Description=ryzen%209%205950X&cm_re=ryzen_9%205950X-_-19-113-663-_-Product
+
+# Ryzen 5000 CPUs (Amazon)
+#https://www.amazon.com/AMD-Ryzen-5900X-24-Thread-Processor/dp/B08164VTWH/ref=sr_1_4?dchild=1&keywords=ryzen+9+5900x&qid=1607659504&refinements=p_89%3AAMD%2Cp_n_availability%3A1248801011&rnid=1248799011&s=pc&sr=1-4
+#https://www.amazon.com/AMD-Ryzen-5950X-32-Thread-Processor/dp/B0815Y8J9N/ref=sr_1_14?dchild=1&keywords=ryzen+9+5900x&qid=1607659504&refinements=p_89%3AAMD%2Cp_n_availability%3A1248801011&rnid=1248799011&s=pc&sr=1-14
+#https://www.amazon.com/AMD-Ryzen-5800X-16-Thread-Processor/dp/B0815XFSGK/ref=sr_1_11?dchild=1&keywords=ryzen+7+5800x&qid=1607665194&sr=8-11
+
+# Ryzen 5000 CPUs (Microcenter)
+#https://www.microcenter.com/product/630283/amd-ryzen-9-5900x-vermeer-37ghz-12-core-am4-boxed-processor
+#https://www.microcenter.com/product/630282/amd-ryzen-9-5950x-vermeer-34ghz-16-core-am4-boxed-processor
+#https://www.microcenter.com/product/630284/amd-ryzen-7-5800x-vermeer-38ghz-8-core-am4-boxed-processor
+#https://www.microcenter.com/product/630285/amd-ryzen-5-5600x-vermeer-37ghz-6-core-am4-boxed-processor-with-wraith-stealth-cooler
+
+# Ryzen 5000 CPUs (AMD)
+#https://www.amd.com/en/direct-buy/5450881700/us?add-to-cart=true
+#https://www.amd.com/en/direct-buy/5450881600/us?add-to-cart=true
+#https://www.amd.com/en/direct-buy/5450881500/us?add-to-cart=true
+#https://www.amd.com/en/direct-buy/5450881400/us?add-to-cart=true
+
+#https://shop.amd.com/store?Action=DisplayPage&Locale=en_US&SiteID=amd&id=ThreePgCheckoutShoppingCartPage
+
+
+# NVIDIA 3080 GPUs
+#https://www.newegg.com/evga-geforce-rtx-3080-10g-p5-3895-kr/p/N82E16814487519?Description=rtx%203080&cm_re=rtx_3080-_-14-487-519-_-Product
+#https://www.newegg.com/msi-geforce-rtx-3080-rtx-3080-ventus-3x-10g/p/N82E16814137600?Description=rtx%203080&cm_re=rtx_3080-_-14-137-600-_-Product
+#https://www.newegg.com/zotac-geforce-rtx-3080-zt-t30800j-10p/p/N82E16814500504?Description=rtx%203080&cm_re=rtx_3080-_-14-500-504-_-Product
+#https://www.newegg.com/zotac-geforce-rtx-3080-zt-a30800d-10p/p/N82E16814500502?Description=rtx%203080&cm_re=rtx_3080-_-14-500-502-_-Product
+#https://www.newegg.com/evga-geforce-rtx-3080-10g-p5-3881-kr/p/N82E16814487522?Description=rtx%203080&cm_re=rtx_3080-_-14-487-522-_-Product
+#https://www.newegg.com/gigabyte-geforce-rtx-3080-gv-n3080eagle-10gd/p/N82E16814932367?Description=rtx%203080&cm_re=rtx_3080-_-14-932-367-_-Product
+#https://www.newegg.com/evga-geforce-rtx-3080-10g-p5-3883-kr/p/N82E16814487521?Description=rtx%203080&cm_re=rtx_3080-_-14-487-521-_-Product
+#https://www.newegg.com/pny-geforce-rtx-3080-vcg308010tfxppb/p/N82E16814133809?Description=rtx%203080&cm_re=rtx_3080-_-14-133-809-_-Product
+#https://www.newegg.com/gigabyte-geforce-rtx-3080-gv-n3080eagle-oc-10gd/p/N82E16814932330?Description=rtx%203080&cm_re=rtx_3080-_-14-932-330-_-Product
+#https://www.newegg.com/msi-geforce-rtx-3080-rtx3080-suprim-x-10g/p/N82E16814137609?Description=rtx%203080&cm_re=rtx_3080-_-14-137-609-_-Product
+#https://www.newegg.com/gigabyte-geforce-rtx-3080-gv-n3080gaming-oc-10gd/p/N82E16814932329?Description=rtx%203080&cm_re=rtx_3080-_-14-932-329-_-Product
+#https://www.newegg.com/msi-geforce-rtx-3080-rtx-3080-ventus-3x-10g-oc/p/N82E16814137598?Description=rtx%203080&cm_re=rtx_3080-_-14-137-598-_-Product
+#https://www.newegg.com/msi-geforce-rtx-3080-rtx-3080-gaming-x-trio-10g/p/N82E16814137597?Description=rtx%203080&cm_re=rtx_3080-_-14-137-597-_-Product
+#https://www.newegg.com/asus-geforce-rtx-3080-rog-strix-rtx3080-o10g-gaming/p/N82E16814126457?Description=rtx%203080&cm_re=rtx_3080-_-14-126-457-_-Product
+#https://www.newegg.com/gigabyte-geforce-rtx-3080-gv-n3080aorus-x-10gd/p/N82E16814932345?Description=rtx%203080&cm_re=rtx_3080-_-14-932-345-_-Product
+#https://www.newegg.com/gigabyte-geforce-rtx-3080-gv-n3080aorus-m-10gd/p/N82E16814932336?Description=rtx%203080&cm_re=rtx_3080-_-14-932-336-_-Product
+#https://www.newegg.com/pny-geforce-rtx-3080-vcg308010tfxmpb/p/N82E16814133810?Description=rtx%203080&cm_re=rtx_3080-_-14-133-810-_-Product
+#https://www.newegg.com/asus-geforce-rtx-3080-tuf-rtx3080-10g-gaming/p/N82E16814126453?Description=rtx%203080&cm_re=rtx_3080-_-14-126-453-_-Product
+#https://www.newegg.com/asus-geforce-rtx-3080-tuf-rtx3080-o10g-gaming/p/N82E16814126452?Description=rtx%203080&cm_re=rtx_3080-_-14-126-452-_-Product
+#https://www.newegg.com/gigabyte-geforce-rtx-3080-gv-n3080vision-oc-10gd/p/N82E16814932337?Description=rtx%203080&cm_re=rtx_3080-_-14-932-337-_-Product
+#https://www.newegg.com/evga-geforce-rtx-3080-10g-p5-3897-kr/p/N82E16814487518?Description=rtx%203080&cm_re=rtx_3080-_-14-487-518-_-Product
+#https://www.newegg.com/evga-geforce-rtx-3080-10g-p5-3885-kr/p/N82E16814487520?Description=rtx%203080&cm_re=rtx_3080-_-14-487-520-_-Product
+
+
+# NVIDIA 3060 Ti GPUs
+#https://www.microcenter.com/search/search_results.aspx?Ntt=GeForce+RTX+3060+Ti&Ntk=all&sortby=match&N=4294966937+4294822431+4294808462+4294808776&myStore=true
+
+
+### User Added Items ###
+#https://www.newegg.com/p/234-005P-00037?Description=uhhh%20storage&cm_re=uhhh_storage-_-9SIAERP6EC5538-_-Product
+#https://www.newegg.com/samsung-1tb-980-pro/p/N82E16820147790?Description=samsung%20980%20pro&cm_re=samsung_980%20pro-_-20-147-790-_-Product
